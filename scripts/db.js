@@ -14,6 +14,19 @@
 let projectsInfo = {
   en: [
     {
+      projectImage: "assets/img/dabubble_project_img.png",
+      projectAlt: "Image of the real-time messaging app, DABubble",
+      projectTitle: "DABubble",
+      projectIcon: "assets/img/dabubble_project_icon.png",
+      projectOverlayDescription:
+        "DABubble strengthened my Angular knowledge through building a real-time communication platform. I implemented signal-based state management, a reusable overlay architecture, responsive navigation flows, and realtime data synchronization. The project challenged me to design scalable application architecture while managing complex user interactions across desktop and mobile devices.",
+      projectTechnologies: ["Angular, TS |", "SCSS |", "Firebase"],
+      projectBlackBoxDescription:
+        "A real-time messaging application inspired by Slack. Users can authenticate with Google or create a custom profile, start private conversations, and organize discussions into channels and threads.",
+      projectGitHubLink: "https://github.com/MirunaAgopian/DABubble",
+      projectLink: "https://miruna-agopian.de/da_bubble/",
+    },
+    {
       projectImage: "assets/img/poll_app.png",
       projectAlt: "Image of the angular project, PollApp",
       projectTitle: "PollApp",
@@ -52,22 +65,22 @@ let projectsInfo = {
       projectGitHubLink: "https://github.com/MirunaAgopian/El-pollo-locco",
       projectLink: "https://miruna-agopian.de/el_pollo_loco/",
     },
-    {
-      projectImage: "assets/img/dabubble_project_img.png",
-      projectAlt: "Image of the real-time messaging app, DABubble",
-      projectTitle: "DABubble - in progress",
-      projectIcon: "assets/img/dabubble_project_icon.png",
-      projectOverlayDescription:
-        "DABubble is a real business application that I’m currently developing with Angular and AngularFire. I enjoy working on its clean UI, real-time features, and the technical challenges that come with building a scalable messaging system.",
-      projectTechnologies: ["Angular |", "TS |", "AngularFire"],
-      projectBlackBoxDescription:
-        "A real-time messaging application inspired by Slack. Users can authenticate with Google or create a custom profile, start private conversations, and organize discussions into channels and threads.",
-      projectGitHubLink: "https://github.com/MirunaAgopian/DABubble",
-      projectLink: "",
-    },
   ],
 
   de: [
+    {
+      projectImage: "assets/img/dabubble_project_img.png",
+      projectAlt: "Image of the real-time messaging app, DABubble",
+      projectTitle: "DABubble",
+      projectIcon: "assets/img/dabubble_project_icon.png",
+      projectOverlayDescription:
+        "DABubble hat meine Angular-Kenntnisse durch die Entwicklung einer Echtzeit-Kommunikationsplattform vertieft. Ich entwickelte ein signalbasiertes State Management, eine wiederverwendbare Overlay-Architektur sowie responsive Navigations- und Synchronisationskonzepte. Das Projekt gab mir wertvolle Erfahrung im Aufbau skalierbarer Frontend-Architekturen und komplexer Benutzerinteraktionen für Desktop- und Mobilgeräte.",
+      projectTechnologies: ["Angular, TS |", "SCSS |", "Firebase"],
+      projectBlackBoxDescription:
+        "Eine Echtzeit‑Messaging‑App, inspiriert von Slack. Nutzer können sich über Google authentifizieren oder ein eigenes Profil erstellen, private Gespräche starten und Diskussionen in Kanälen und Threads organisieren.",
+      projectGitHubLink: "https://github.com/MirunaAgopian/DABubble",
+      projectLink: "https://miruna-agopian.de/da_bubble/",
+    },
     {
       projectImage: "assets/img/poll_app.png",
       projectAlt: "Image of the angular project, PollApp",
@@ -106,19 +119,6 @@ let projectsInfo = {
         "Ein 2D‑Jump‑and‑Run‑Spiel mit JavaScript und objektorientierter Programmierung, inspiriert von klassischen Plattformern. Führe die Figur durch die Welt, sammle Münzen und Flaschen und stelle dich dem Endgegner.",
       projectGitHubLink: "https://github.com/MirunaAgopian/El-pollo-locco",
       projectLink: "https://miruna-agopian.de/el_pollo_loco/",
-    },
-    {
-      projectImage: "assets/img/dabubble_project_img.png",
-      projectAlt: "Image of the real-time messaging app, DABubble",
-      projectTitle: "DABubble - in progress",
-      projectIcon: "assets/img/dabubble_project_icon.png",
-      projectOverlayDescription:
-        "DABubble ist eine echte Business‑App, die ich derzeit mit Angular und AngularFire entwickle. Besonders Freude macht mir die Arbeit an der klaren UI, den Echtzeit‑Funktionen und den technischen Herausforderungen, die beim Aufbau eines skalierbaren Messaging‑Systems entstehen.",
-      projectTechnologies: ["Angular |", "TS |", "AngularFire"],
-      projectBlackBoxDescription:
-        "Eine Echtzeit‑Messaging‑App, inspiriert von Slack. Nutzer können sich über Google authentifizieren oder ein eigenes Profil erstellen, private Gespräche starten und Diskussionen in Kanälen und Threads organisieren.",
-      projectGitHubLink: "https://github.com/MirunaAgopian/DABubble",
-      projectLink: "",
     },
   ],
 };
