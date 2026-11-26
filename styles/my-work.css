@@ -117,10 +117,14 @@ button {
   right: 0;
   width: 100%;
   max-width: 450px;
-  height: 100px;
+  height: 120px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+#project_overlay_description {
+  line-height: 19px;
 }
 
 .project-icon {
